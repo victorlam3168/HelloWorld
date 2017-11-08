@@ -1,5 +1,4 @@
 # HelloWorld
-Hello World Repository
 
 Hi Humans,
 
